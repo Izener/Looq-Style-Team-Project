@@ -1,2 +1,1 @@
-# Looq-Style-Team-Project
-Team project
+# CMM19 Website development
